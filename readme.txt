@@ -10,7 +10,7 @@ Requirements :
 How to run the Program:
 
 	Option 1:
-	Open the requirements.py file and use pip install, run the command in the command prompt to install
+	Open the requirements.py file and use pip install, run the command in the terminal to install
 	the required Python packages. Then run the script to download the required NLTK packages. 
 
 	Option 2:
