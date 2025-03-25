@@ -1,4 +1,4 @@
-By: Qutaiba Abualrob
+Arab American University Emoji challenge
 
 
 Requirements :
